@@ -1,0 +1,14 @@
+com\comissar\politics\command\TownyFormCommand.class
+com\comissar\politics\events\EventListener$1.class
+com\comissar\politics\objects\Building.class
+com\comissar\politics\utils\FileManager.class
+com\comissar\politics\objects\TownPolitic.class
+com\comissar\politics\utils\TownyUtils.class
+com\comissar\politics\command\TownyBankCommand.class
+com\comissar\politics\objects\Form.class
+com\comissar\politics\PoliticsUniverse.class
+com\comissar\politics\utils\Translate.class
+com\comissar\politics\events\EventListener.class
+com\comissar\politics\Politics.class
+com\comissar\politics\utils\GUIMaster.class
+com\comissar\politics\command\TownyBuildsCommand.class

@@ -1,0 +1,16 @@
+name: Politics
+version: '${project.version}'
+main: com.comissar.politics.Politics
+api-version: 1.16
+depend: [ Vault, Towny ]
+authors: [ Comissar ]
+commands:
+  tforms:
+    description: Manage your town form
+    usage: /tforms <args>
+  tbank:
+    description: Manage your town resource bank
+    usage: /tbank
+  tbuilds:
+    description: Manage your town buildings
+    usage: /tbuilds <args>
